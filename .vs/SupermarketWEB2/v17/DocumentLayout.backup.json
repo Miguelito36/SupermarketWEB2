@@ -1,0 +1,666 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\customers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\customers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\paymode\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\paymode\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\paymode\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\paymode\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\paymode\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\paymode\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\paymode\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\paymode\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\paymode\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\paymode\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\paymode\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\paymode\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\paymode\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\paymode\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\paymode\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\paymode\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\customers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\customers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\customers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\customers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\customers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\customers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\models\\paymode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\models\\paymode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\models\\costumers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\models\\costumers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|c:\\users\\jomia\\source\\repos\\supermarketweb2\\supermarketweb2\\data\\supermarketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4847A40B-FD24-4747-BBB3-D986661F1F6D}|SupermarketWEB2\\SupermarketWEB2.csproj|solutionrelative:supermarketweb2\\data\\supermarketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 444,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginStatusPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:55:30.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:54:25.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Program.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Program.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Program.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:53:37.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:51:54.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\PayMode\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Index.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\PayMode\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:51:21.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\PayMode\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Edit.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\PayMode\\Edit.cshtml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:50:52.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Customers\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Index.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Customers\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:47:27.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Categories\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Categories\\Index.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:41:55.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:35:57.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:36:08.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\PayMode\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Delete.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\PayMode\\Delete.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:50:11.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\PayMode\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Create.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\PayMode\\Create.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:48:13.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Customers\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Edit.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Customers\\Edit.cshtml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:47:05.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Customers\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Delete.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Customers\\Delete.cshtml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:45:46.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Customers\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Create.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Customers\\Create.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:44:05.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Index.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\PayMode\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Index.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\PayMode\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:43:53.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\PayMode\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Edit.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\PayMode\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:43:44.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\PayMode\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Delete.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\PayMode\\Delete.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:43:34.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Create.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\PayMode\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\PayMode\\Create.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\PayMode\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:43:26.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Index.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Customers\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:43:18.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:43:02.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:42:54.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Customers\\Create.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:42:48.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Categories\\Edit.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:41:11.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Categories\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Categories\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:40:22.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Categories\\Create.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:39:36.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Categories\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:39:01.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:38:51.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:38:41.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Categories\\Create.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:38:34.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Models\\User.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:36:59.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:35:55.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SupermarketWEB2\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T21:35:44.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Costumers.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Models\\Costumers.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Models\\Costumers.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Models\\Costumers.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Models\\Costumers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:34:30.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PayMode.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Models\\PayMode.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Models\\PayMode.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Models\\PayMode.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Models\\PayMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:34:15.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Models\\Category.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:33:50.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Models\\Product.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:33:28.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SupermarketContext.cs",
+              "DocumentMoniker": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Data\\SupermarketContext.cs",
+              "RelativeDocumentMoniker": "SupermarketWEB2\\Data\\SupermarketContext.cs",
+              "ToolTip": "C:\\Users\\jomia\\source\\repos\\SupermarketWEB2\\SupermarketWEB2\\Data\\SupermarketContext.cs",
+              "RelativeToolTip": "SupermarketWEB2\\Data\\SupermarketContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:31:38.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

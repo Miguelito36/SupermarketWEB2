@@ -1,0 +1,29 @@
+﻿@page
+@model SupermarketWEB2.Pages.PayMode.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<h1>Edit Pay Mode</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="PayMode.Id" />
+            <div class="form-group">
+                <label asp-for="PayMode.Name" class="control-label"></label>
+                <input asp-for="PayMode.Name" class="form-control" />
+                <span asp-validation-for="PayMode.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PayMode.Observation" class="control-label"></label>
+                <input asp-for="PayMode.Observation" class="form-control" />
+                <span asp-validation-for="PayMode.Observation" class="text-danger"></span>
+            </div>
+            <button type="submit" value="Save" class="btn btn-primary">Save</button>
+            <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+        </form>
+    </div>
+</div>
